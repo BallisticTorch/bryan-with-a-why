@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: url('assets/stars.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: #f0f0f0;
+}
+
+header {
+  text-align: center;
+  padding: 2em;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+header h1 {
+  font-size: 2.5em;
+  margin-bottom: 0.2em;
+}
+
+nav a {
+  margin: 0 1em;
+  color: #00ffff;
+  text-decoration: none;
+}
+
+section {
+  padding: 2em;
+  background-color: rgba(0, 0, 0, 0.6);
+  margin: 1em;
+  border-radius: 10px;
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 1.5em;
+}
+
+footer {
+  text-align: center;
+  padding: 1em;
+  background-color: rgba(0, 0, 0, 0.7);
+  font-size: 0.9em;
+}
